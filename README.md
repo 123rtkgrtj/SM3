@@ -14,5 +14,6 @@
     
 运行截图：
     
-    ![image](https://user-images.githubusercontent.com/110152761/182007607-fbc8cf8f-71d1-4705-a0ae-41e5d9c3869a.png)
+    ![image](https://user-images.githubusercontent.com/110152761/182007738-7956c7c9-564a-45c5-b1dc-edd6266fc7e1.png)
+
 
